@@ -1,6 +1,6 @@
 # K8S
 
-This is a kubernetes project which includes following:
+This is a kubernetes project which includes following components:
 - configmap
 - secret
 - 2 deployments - mongo-deployment, webapp-deployment
